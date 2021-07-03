@@ -13,6 +13,7 @@
 		AD478BD9269034CA00BAC53B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD478BD7269034CA00BAC53B /* Main.storyboard */; };
 		AD478BDB269034CA00BAC53B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD478BDA269034CA00BAC53B /* Assets.xcassets */; };
 		AD478BDE269034CA00BAC53B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD478BDC269034CA00BAC53B /* LaunchScreen.storyboard */; };
+		AD478BE62690364800BAC53B /* htmlView.html in Resources */ = {isa = PBXBuildFile; fileRef = AD478BE52690364800BAC53B /* htmlView.html */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AD478BDA269034CA00BAC53B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD478BDD269034CA00BAC53B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD478BDF269034CA00BAC53B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD478BE52690364800BAC53B /* htmlView.html */ = {isa = PBXFileReference; lastKnownFileType = text.html; path = htmlView.html; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				AD478BDA269034CA00BAC53B /* Assets.xcassets */,
 				AD478BDC269034CA00BAC53B /* LaunchScreen.storyboard */,
 				AD478BDF269034CA00BAC53B /* Info.plist */,
+				AD478BE52690364800BAC53B /* htmlView.html */,
 			);
 			path = WorkFlowyWebVIew;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD478BE62690364800BAC53B /* htmlView.html in Resources */,
 				AD478BDE269034CA00BAC53B /* LaunchScreen.storyboard in Resources */,
 				AD478BDB269034CA00BAC53B /* Assets.xcassets in Resources */,
 				AD478BD9269034CA00BAC53B /* Main.storyboard in Resources */,
